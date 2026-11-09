@@ -1,4 +1,4 @@
-﻿# ==============================================================================
+# ==============================================================================
 # Git Shield - 1-Line Installer for Windows (PowerShell)
 # ==============================================================================
 
@@ -48,3 +48,4 @@ if (Test-Path (Split-Path $CodeSettings)) {
 
 Write-Host "`n🎉 Git Shield successfully installed on Windows!" -ForegroundColor Green
 Write-Host "Whenever you run 'git pull', Git Shield will automatically inspect and protect your repo." -ForegroundColor Cyan
+

@@ -12,3 +12,4 @@ rm -f "$HOME/.local/bin/guard-repo"
 rm -f "$HOME/bin/guard-repo"
 
 echo "✓ Git Shield successfully uninstalled."
+

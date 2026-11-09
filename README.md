@@ -147,3 +147,4 @@ If **Git Shield** saved your project or machine from being compromised, please *
 ## 📄 License
 
 Distributed under the [MIT License](LICENSE). Free for open-source and commercial use.
+

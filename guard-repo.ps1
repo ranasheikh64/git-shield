@@ -1,4 +1,4 @@
-﻿# ==============================================================================
+# ==============================================================================
 # Git Shield - Universal Repository Malware & Auto-Run Exploit Scanner
 # Supported OS: Windows (PowerShell)
 # Protects against: Lazarus, BeaverTail, EtherHiding, VS Code auto-run tasks RCE
@@ -81,3 +81,4 @@ if ($ThreatsFound -eq 0) {
 } else {
     Write-Host "⚠️  [Git Shield] Cleaned $ThreatsFound malicious threat(s)." -ForegroundColor Yellow
 }
+

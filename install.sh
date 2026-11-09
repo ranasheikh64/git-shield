@@ -126,3 +126,4 @@ echo ""
 echo -e "${BOLD}${GREEN}🎉 Git Shield successfully installed!${RESET}"
 echo -e "Whenever you run ${BOLD}git pull${RESET} in any repository, Git Shield will automatically guard your system."
 echo -e "You can also run ${BOLD}guard-repo${RESET} manually inside any directory at any time."
+

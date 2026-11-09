@@ -1,4 +1,4 @@
-﻿# ==============================================================================
+# ==============================================================================
 # Git Shield - Uninstaller for Windows
 # ==============================================================================
 
@@ -8,3 +8,4 @@ if (Test-Path $InstallDir) {
     Remove-Item -Recurse -Force $InstallDir
 }
 Write-Host "✓ Git Shield successfully uninstalled." -ForegroundColor Green
+

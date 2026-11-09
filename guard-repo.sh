@@ -128,3 +128,4 @@ else
     echo -e "${YELLOW}⚠️  [Git Shield] Warning: Neutralized and cleaned $THREATS_FOUND malicious threat(s).${RESET}"
 fi
 exit 0
+
